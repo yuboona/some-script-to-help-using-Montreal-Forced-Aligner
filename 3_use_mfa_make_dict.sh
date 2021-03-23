@@ -1,0 +1,1 @@
+mfa g2p mandarin_pinyin_g2p ./data/ ./dict/dict_all.txt
