@@ -2,7 +2,7 @@
 
 Some script for helping using [Montreal Forced Aligner](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner/), 
 
-- maily for transforming Hanzi character to pinyin,
+- mainly for transforming Hanzi character to pinyin,
 - generating phone dict,
 - train your own model
 - and extrat pause time from .textgrid files.
